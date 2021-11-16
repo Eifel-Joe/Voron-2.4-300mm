@@ -2,6 +2,6 @@
  Klipper-Config for my Voron 2.4 300mm
 
 inkluded Mods in config
-Klicky Probe
-Purge bucket & Nozzle Scrub
-Bed Fans for faster heating
+1. Klicky Probe
+2. Purge bucket & Nozzle Scrub
+3. Bed Fans for faster heating

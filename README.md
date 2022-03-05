@@ -2,9 +2,7 @@
 
 Config, STL's and CAD for my V2.4
 
-The current Config can be found [here] (https://github.com/Eifel-Joe/V2.2075). It is updated after every change in my config files.
-
-The BOM for those components can be found [here](https://docs.google.com/spreadsheets/d/1A_qeNeaVprh_iPbvLcLjvJ2o2NfCzjuJam3K3RkWW0w).
+The current Config can be found [here](https://github.com/Eifel-Joe/V2.2075). It is updated after every change in my config files.
 
 List of Mods
 1. Klicky Probe

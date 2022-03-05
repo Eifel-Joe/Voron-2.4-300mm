@@ -10,7 +10,7 @@ Files in this repo are partially remixed to fit my personal needs.
 
 Some parts in this repo are partially remixed to fit my personal needs. 
 
-Remixes are marked as such by (r)_ in front of the filename. Mods are in subdirectories. The file names are adapted to the Voron design in terms of color (accent or main).
+Remixes are marked as such by (r)_ in front of the filename. Mods are in subdirectories. The file names are adapted to the Voron design in terms of color (accent or main). When it comes to mods for the complete replacement of components, they are linked at the appropriate place.
 
 Some mods require the purchase of additional parts. A BOM for each mod is available. Links are provided (where possible) to the components I used, excluding nuts and bolts.
 
